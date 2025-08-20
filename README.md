@@ -15,7 +15,7 @@ This is the **frontend** of the MERN project, built using **Vite + React** with 
 ---
 
 ## 🌐 Live Site
-👉 [Live Demo]([https://your-live-site-link.com](https://portfolio-challenge-six.vercel.app/))
+👉 [Live Demo](https://portfolio-challenge-six.vercel.app/)
 
 ---
 
