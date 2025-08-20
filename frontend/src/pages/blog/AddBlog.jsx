@@ -1,8 +1,9 @@
 import React, { useState } from "react";
 import axios from "axios";
 
+const BASE_URL = import.meta.env.VITE_BASE_URL;
 const api = axios.create({
-  baseURL: "http://localhost:4000",
+  baseURL: BASE_URL,
   headers: { "Content-Type": "application/json" },
 });
 
