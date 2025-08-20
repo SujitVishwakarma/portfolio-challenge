@@ -1,0 +1,62 @@
+{
+  "posts": [
+    {
+      "id": "consulted-admitting",
+      "title": "Consulted admitting is power acuteness.",
+      "date": "28 March 2023",
+      "author": "Admin",
+      "commentsCount": 2,
+      "readTime": "5min",
+      "image": "/yogMania.png",
+      "excerpt": "Sit amet facilisis mauris, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum...",
+      "content": [
+        "Sit amet luctussd fav venenatis, lectus magna fringilla inis urna, porttitor rhoncus dolor purus non enim praesent in elementum sahas facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etisam dignissim diam quis enim lobortis viverra orci sagittis eu volutpat odio facilisis mauris sit.",
+        "Sit amet luctussd fav venenatis, lectus magna fringilla inis urna, porttitor rhoncus dolor purus non enim praesent in elementum sahas facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etisam dignissim diam quis enim lobortis viverra orci sagittis eu volutpat odio facilisis mauris sit.",
+        "Sit amet luctussd fav venenatis, lectus magna fringilla inis urna, porttitor rhoncus dolor purus non enim praesent in elementum sahas facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etisam dignissim diam quis enim lobortis viverra orci sagittis eu volutpat odio facilisis mauris sit."
+      ],
+      "bulletPoints": [
+        "Pellentesque habitant morbi.",
+        "General have obliging animals praised account carried.",
+        "Cursus natoque penatibus et magnis.",
+        "Nostra fermentum augue non highly.",
+        "Occaecat pariatur adipisci distinctio."
+      ],
+      "categories": ["Analysis", "Development"],
+      "tags": ["SaaS", "Development", "UX/UI"]
+    },
+    {
+      "id": "discovery-rescued",
+      "title": "Discovery themselves may collecting prosperity.",
+      "date": "15 April 2023",
+      "author": "Admin",
+      "commentsCount": 1,
+      "readTime": "4min",
+      "image": "/yogMania.png",
+      "excerpt": "Aenean sed adipiscing diam donec adipiscing tristique risus...",
+      "content": [
+        "Egestas sed sed risus pretium quam vulputate dignissim...",
+        "Amet luctus venenatis lectus magna fringilla urna..."
+      ],
+      "bulletPoints": ["Elementum integer enim.", "Euismod quis viverra nibh cras."],
+      "categories": ["Technology"],
+      "tags": ["React", "Next.js", "Figma"]
+    },
+    {
+      "id": "unforfeited-inevitable",
+      "title": "Unforfeited inevitable may collecting power.",
+      "date": "30 April 2023",
+      "author": "Admin",
+      "commentsCount": 3,
+      "readTime": "6min",
+      "image": "/yogMania.png",
+      "excerpt": "Urna neque viverra justo nec ultrices dui sapien eget mi proin...",
+      "content": [
+        "Vitae suscipit tellus mauris a diam maecenas sed enim ut sem...",
+        "Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada..."
+      ],
+      "bulletPoints": ["Tellus at urna condimentum.", "Fermentum posuere urna nec."],
+      "categories": ["Security", "IT Solutions"],
+      "tags": ["Java", "SaaS", "UX/UI"]
+    }
+  ]
+}
